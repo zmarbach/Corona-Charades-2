@@ -1,0 +1,319 @@
+algae
+alligator
+anaconda
+angelfish
+animal
+anteater
+antelope
+ape
+arctic wolf
+armadillo
+asp
+baboon
+badger
+bald eagle
+barnacle
+barracuda
+bass
+basset hound
+bat
+beagle
+bear
+beaver
+bed bug
+bee
+beetle
+beluga whale
+bighorn sheep
+bird
+bison
+black bear
+black swan
+blackbird
+bloodhound
+blowfish
+blue jay
+blue ring octopus
+blue shark
+blue whale
+bluebird
+bluefin tuna
+boa constrictor
+bobcat
+bongo
+bony fish
+border collie
+Boston terrier
+box turtle
+boxer
+brittle star
+brown bear
+brown pelican
+buffalo
+bug
+bull
+bull shark
+bull snake
+bulldog
+bullfrog
+bumblebee
+butterfly
+California sea lion
+camel
+Canada goose
+canary
+cape buffalo
+cardinal
+caribou
+cassowary
+cat
+caterpillar
+cattle
+centipede
+chameleon
+cheetah
+chickadee
+chicken
+chihuahua
+chimipanzee
+chinchilla
+chipmunk
+cicada
+clam
+clownfish
+cobra
+cockatoo
+cockroach
+cod
+collie
+common rhea
+companion dog
+conch
+copperhead snake
+coral
+cottonmouth
+cougar
+cow
+coyote
+crab
+crane
+crayfish
+cricket
+crocodile
+crow
+crustacean
+cuttlefish
+cutworm
+Dachshund
+Dalmatian
+deer
+desert tortoise
+dingo
+dinosaur
+dog
+dogfish
+dolphin
+dolphin
+donkey
+dory
+dove
+downy woodpecker
+dragonfly
+dromedary
+duck
+duck-billed platypus
+dung beetle
+eagle
+earthworm
+earwig
+eastern bluebird
+echinoderms
+eel
+egg
+egret
+eland
+electric eel
+elephant
+elephant seal
+elk
+emperor penguin
+emu
+falcon
+farm animals
+ferret
+finch
+fireant
+firefly
+fish
+flamingo
+flatworm
+flea
+flounder
+fly
+flying fish
+flying squirrel
+forest antelope
+forest giraffe
+fowl
+fox
+frog
+gazelle
+gecko
+German shepherd
+giant squid
+giraffe
+gnat
+goat
+golden eagle
+golden retriever
+goldfish
+goose
+gopher
+gorilla
+grasshopper
+gray whale
+great white shark
+greyhound
+grizzly bear
+groundhog
+guinea pig
+hammerhead shark
+hamster
+hare
+hawk
+hedgehog
+hen
+hermit crab
+hippopotamus
+hornet
+horse
+hound
+house fly
+human being
+hummingbird
+humpback whale
+husky
+hyena
+iguana
+impala
+insect
+Irish setter
+jack rabbit
+Jack Russell terrier
+jaguar
+Japanese crane
+jay
+jellyfish
+junebug
+kangaroo
+katydid
+king cobra
+king crab
+koala
+krill
+Labrador retriever
+ladybug
+lemur
+leopard
+lice
+lightning bug
+lion
+lizard
+llama
+lobster
+locust
+longhorn
+lynx
+macaw
+mackerel
+maggot
+mallard duck
+manatee
+manta ray
+meerkat
+mice
+millipede
+mockingbird
+monarch butterfly
+monkey
+moose
+mosquito
+mountain lion
+mouse
+octopus
+orangutan
+oriole
+ostrich
+owl
+ox
+oyster
+panda
+panther
+parrot
+peacock
+pelican
+penguin
+pig
+pigeon
+piranha
+plankton
+platypus
+polar bear
+poodle
+porcupine
+pufferfish
+pug
+python
+quail
+rabbit
+raccoon
+rat
+rattlesnake
+reindeer
+reptile
+rhino
+river otter
+roach
+roadrunner
+rooster
+salamander
+salmon
+sand dollar
+scorpion
+seahorse
+seal
+shark
+shrimp
+husky
+skunk
+sloth
+snail
+snake
+snapping turtle
+spider
+squid
+squirrel
+starfish
+stork
+swordfish
+T-rex
+tadpole
+tarantula
+termite
+tick
+tiger
+toad
+tortoise
+toucan
+turkey
+turtle
+walkingstick
+walrus
+warthog
+wasp
+wildebeest
+wolf
+wolverine
+woodchuck
+woodpecker
+zebra

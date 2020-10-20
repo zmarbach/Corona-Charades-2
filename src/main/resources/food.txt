@@ -1,0 +1,472 @@
+acorn squash
+almond
+anchovy
+appetite
+appetizer
+apple
+apricot
+artichoke
+asparagus
+avocado
+bacon
+bagel
+bake
+bamboo shoots
+banana
+barbecue
+barley
+basil
+batter
+beans
+beef
+beet
+bell pepper
+berry
+biscuit
+bitter
+black beans
+black tea
+black-eyed peas
+blackberry
+bland
+blood orange
+blueberry
+boil
+bowl
+bread
+breadfruit
+breakfast
+brisket
+broccoli
+broil
+brown rice
+brownie
+brunch
+Brussels sprouts
+buns
+burrito
+butter
+butter bean
+cake
+calorie
+candy
+candy apple
+cantaloupe
+caramel
+caramel apple
+carbohydrate
+carrot
+cashew
+casserole
+cater
+cauliflower
+caviar
+cayenne pepper
+celery
+cereal
+cheddar
+cheese
+cheesecake
+chef
+cherry
+chew
+chick peas
+chicken
+chili
+chips
+chives
+chocolate
+chopsticks
+chow
+cilantro
+cinnamon
+citrus
+clam
+cloves
+cobbler
+coconut
+cod
+coffee
+coleslaw
+collard greens
+cook
+cookbook
+cookie
+corn
+cornflakes
+cornmeal
+cottage cheese
+crab
+crackers
+cranberry
+cream
+cream cheese
+crepe
+crisp
+crunch
+crust
+cucumber
+cuisine
+cupboard
+cupcake
+curry
+custard
+daily bread
+dairy
+dandelion greens
+Danish pastry
+dates
+dessert
+diet
+digest
+digestive system
+dill
+dine
+diner
+dinner
+dip
+dish
+dough
+doughnut
+dragonfruit
+dressing
+dried
+drink
+dry
+eat
+edible
+egg
+eggplant
+fat
+feast
+fed
+feed
+fennel
+fig
+fillet
+fire
+fish
+flan
+flax
+flour
+food
+food pyramid
+foodstuffs
+fork
+freezer
+French fries
+fried
+fritter
+frosting
+fruit
+fry
+garlic
+gelatin
+ginger ale
+gingerbread
+glasses
+Gouda cheese
+grain
+granola
+grape
+grapefruit
+grated
+gravy
+green bean
+green tea
+greens
+grub
+guacamole
+gyro
+ham
+hamburger
+hash
+hazelnut
+herbs
+honey
+horseradish
+hot dog
+hot sauce
+hummus
+hunger
+hungry
+ice cream cone
+iceberg lettuce
+jalapeño
+jam
+jelly
+jellybeans
+Jordan almonds
+jug
+juice
+junk food
+kale
+kebab
+ketchup
+kettle
+kettle corn
+kitchen
+kiwi
+knife
+ladle
+lamb
+lard
+lasagna
+legumes
+lemon
+lemonade
+lentils
+lettuce
+licorice
+lima beans
+lime
+liver
+loaf
+lobster
+lollipop
+lunch
+lunch box
+lunchmeat
+macaroni
+macaroon
+main course
+mandarin orange
+mango
+maple syrup
+margarine
+marshmallow
+mashed potatoes
+mayonnaise
+meat
+meatball
+meatloaf
+melon
+menu
+meringue
+milk
+milkshake
+millet
+mint
+molasses
+mozzarella
+muffin
+mug
+mushroom
+mussels
+mustard
+mustard greens
+mutton
+napkin
+nectarine
+nibble
+noodles
+nourish
+nourishment
+nut
+nutmeg
+nutrient
+oatmeal
+oil
+okra
+olive
+omelet
+omnivore
+onion
+orange
+order
+oregano
+oven
+oyster
+pan
+pancake
+pasta
+pastry
+patty
+pea
+peach
+peanut
+peanut butter
+pear
+pecan
+pepper
+pepperoni
+persimmon
+pickle
+picnic
+pie
+pineapple
+pita bread
+pitcher
+pizza
+plate
+platter
+plum
+poached
+pomegranate
+pomelo
+pop
+popcorn
+popovers
+popsicle
+pork
+pork chops
+pot
+pot roast
+potato
+preserves
+pretzel
+prime rib
+protein
+provisions
+prune
+pudding
+pumpernickel
+pumpkin
+punch
+quiche
+quinoa
+radish
+raisin
+raspberry
+rations
+ravioli
+recipe
+refreshments
+refrigerator
+relish
+restaurant
+rhubarb
+ribs
+rice
+roast
+roll
+rolling pin
+romaine
+rosemary
+rye
+saffron
+sage
+salad
+salami
+salmon
+salsa
+salt
+sandwich
+sauce
+sauerkraut
+sausage
+savory
+scallops
+scrambled
+seaweed
+seeds
+sesame seed
+shallots
+sherbet
+shish kebab
+shrimp
+slaw
+slice
+smoked
+snack
+soda
+soda bread
+sole
+sorbet
+sorghum
+sorrel
+soup
+sour
+sour cream
+soy
+soy sauce
+soybeans
+spaghetti
+spareribs
+spatula
+spices
+spicy
+spinach
+split peas
+spoon
+spork
+sprinkles
+sprouts
+spuds
+squash
+squid
+steak
+stew
+stir-fry
+stomach
+stove
+straw
+strawberry
+string bean
+stringy
+strudel
+sub sandwich
+submarine sandwich
+succotash
+suet
+sugar
+summer squash
+sundae
+sunflower
+supper
+sushi
+sustenance
+sweet
+sweet potato
+Swiss chard
+syrup
+taco
+take-out
+tamale
+tangerine
+tapioca
+taro
+tarragon
+tart
+tea
+teapot
+teriyaki
+thyme
+toast
+toaster
+toffee
+tofu
+tomatillo
+tomato
+torte
+tortilla
+tuber
+tuna
+turkey
+turmeric
+turnip
+unleavened
+utensils
+vanilla
+veal
+vegetable
+venison
+vinegar
+vitamin
+wafer
+waffle
+walnut
+wasabi
+water
+water chestnut
+watercress
+watermelon
+wheat
+whey
+whipped cream
+wok
+yam
+yeast
+yogurt
+yolk
+zucchini

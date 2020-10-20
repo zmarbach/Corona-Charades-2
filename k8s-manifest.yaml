@@ -1,0 +1,50 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: corona-charades-load-balancer
+  labels:
+    app: cc-lb
+spec:
+  type: LoadBalancer
+  # will direct traffic to any pod with the label "cc-app"
+  selector:
+    app: cc-app
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: corona-charades-deployment
+  labels:
+    app: corona-charades
+spec:
+  replicas: 3
+  selector:
+    # deployment will apply to any pods with label "cc-app"
+    matchLabels:
+      app: cc-app
+  template:
+    metadata:
+      labels:
+        app: cc-app
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: beta.kubernetes.io/arch
+                    operator: In
+                    values:
+                      - amd64
+                      - arm64
+      containers:
+        - name: corona-charades
+          image: zmarbach22/corona-charades-app
+          ports:
+            - containerPort: 80

@@ -1,0 +1,118 @@
+accountant
+actor
+actress
+animator
+archer
+artist
+astronaut
+athlete
+attorney
+auctioneer
+author
+babysitter
+baker
+ballerina
+banker
+barber
+blacksmith
+butcher
+butler
+cab driver
+carpenter
+cartoonist
+cashier
+chauffeur
+chef
+chemist
+coach
+contractor
+cook
+cop
+custodian
+dancer
+dentist
+deputy
+detective
+director
+disc jockey
+doctor
+doorman
+drummer
+economist
+editor
+electrician
+engineer
+entertainer
+entrepreneur
+exterminator
+extra (in a movie)
+farmer
+firefighter
+fisherman
+game designer
+garbage man
+governor
+grocer
+hairdresser
+handyman
+janitor
+jeweler
+journalist
+judge
+karate teacher
+landlord
+lawyer
+librarian
+lifeguard
+lobbyist
+locksmith
+magician
+marine
+marketer
+mathematician
+mayor
+mechanic
+model
+monk
+musician
+nun
+nurse
+painter
+park ranger
+percussionist
+pharmacist
+philanthropist
+photographer
+pianist
+pilot
+plumber
+poet
+policeman
+politician
+professor
+programmer
+radiologist
+real estate agent
+receptionist
+referee
+sailor
+salesperson
+saxophonist
+scientist
+scuba diver
+security guard
+spy
+stockbroker
+surgeon
+taxi driver
+taxidermist
+teacher
+trainer
+truck driver
+veterinarian
+waitress
+zookeeper
+recruiter
+pro athlete
+gambler
+bull rider

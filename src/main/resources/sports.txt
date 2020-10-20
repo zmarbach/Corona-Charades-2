@@ -1,0 +1,157 @@
+aerobics
+archery
+arena
+arrow
+athlete
+athletics
+badminton
+baseball
+basketball
+bat
+baton
+batter
+biathlon
+bicycle
+bike
+billiards
+bobsleigh
+boomerang
+bowling
+boxer
+bronze medal
+bunt
+canoe
+catcher
+championship
+cleats
+club
+coach
+competing
+cricket
+cross country
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+dodgeball
+doubleheader
+dugout
+fencing
+field hockey
+figure skating
+fitness
+football
+forward
+free throw
+Frisbee
+geocaching
+goal
+goalie
+gold medal
+golfer
+gymnasium
+halftime
+hammer throw
+handball
+hang gliding
+hardball
+helmet
+heptathlon
+high jump
+hole-in-one
+home plate
+home run
+home team
+hoop
+horses
+hurdle
+ice rink
+infielder
+inline skates
+inning
+javelin
+jog
+judo
+jump rope
+karate
+kayak
+kickball
+kite
+kneepads
+kung fu
+lacrosse
+league
+loser
+mallet
+martial arts mat
+minor league
+mitt
+mouthguard
+MVP
+net
+no-hitter
+offense
+ollie
+Olympics
+paddleball
+paintball
+parasailing
+parkour
+pentathlon
+pickleball
+ping pong
+pitcher
+playoffs
+pogo stick
+pole vault
+polo
+pool
+puck
+quarter
+quarterback
+quiver
+racing
+racket
+racquetball
+referee
+relay
+rock climbing
+roller skates
+roller skating
+rugby
+sailing
+scoreboard
+scuba
+shortstop
+silver medal
+slalom
+snorkeling
+snowboard
+soccer
+softball
+somersault
+speed skating
+sportsmanship
+squash
+strike
+Sumo wrestling
+surfing
+synchronized swimming
+table tennis
+taekwondo
+teammate
+tetherball
+track and field
+trampoline
+triathlete
+tug of war
+umpire
+uniform
+volleyball
+wakeboarding
+weightlifter
+World Cup
+World Series
