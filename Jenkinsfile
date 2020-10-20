@@ -15,9 +15,9 @@
                 post {
                     success {
                         echo "Build succeeded and all tests passed!"
-                        echo "Archive the application war file"
+                        echo "Archive the application jar file"
                         sh 'ls'
-                        archiveArtifacts artifacts: 'target/ROOT.war'
+                        archiveArtifacts artifacts: 'target/*.jar'
                     }
                 }
             }
