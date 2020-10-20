@@ -8,6 +8,7 @@
         stages {
             stage('Build and Test Charades App') {
                 steps {
+                    echo 'TESTING123'
                     echo '***** Building charades app and running all tests.... *****'
                     sh 'mvn -f pom.xml clean compile package'
                 }
