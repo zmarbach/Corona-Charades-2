@@ -8,15 +8,16 @@
         stages {
             stage('Build and Test Charades App') {
                 steps {
+                    echo 'TESTING123'
                     echo '***** Building charades app and running all tests.... *****'
                     sh 'mvn -f pom.xml clean compile package'
                 }
                 post {
                     success {
                         echo "Build succeeded and all tests passed!"
-                        echo "Archive the application war file"
+                        echo "Archive the application jar file"
                         sh 'ls'
-                        archiveArtifacts artifacts: 'target/ROOT.war'
+                        archiveArtifacts artifacts: 'target/*.jar'
                     }
                 }
             }
